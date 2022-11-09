@@ -1,0 +1,13 @@
+{
+    "name": "ares/ares-styles",
+    "description": "Package for ARES apps universal styles",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ares\\AresStyles\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
